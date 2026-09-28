@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 220" role="img" aria-labelledby="title desc">
+  <title id="title">Escudo Colegio Don Bosco Sucre</title>
+  <desc id="desc">Escudo institucional estilizado con paleta azul y amarilla.</desc>
+  <path fill="#0b3d91" d="M90 8 158 32v64c0 49-27 93-68 116-41-23-68-67-68-116V32z"/>
+  <path fill="#f7c600" d="M90 20 146 40v56c0 41-21 78-56 100-35-22-56-59-56-100V40z"/>
+  <path fill="#0b3d91" d="M90 32 134 48v47c0 34-16 64-44 83-28-19-44-49-44-83V48z"/>
+  <circle cx="90" cy="82" r="28" fill="#fff7d1"/>
+  <path fill="#f7c600" d="M90 55 97 74h20l-16 12 6 19-17-12-17 12 6-19-16-12h20z"/>
+  <path fill="#fff7d1" d="M58 124c18-11 46-11 64 0v16c-18-10-46-10-64 0z"/>
+  <text x="90" y="134" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#0b3d91">DON BOSCO</text>
+  <text x="90" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#f7c600">SUCRE</text>
+</svg>

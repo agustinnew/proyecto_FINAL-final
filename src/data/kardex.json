@@ -1,0 +1,38 @@
+[
+  {
+    "id": "falta-1",
+    "CI": "7654321",
+    "trimestre": 1,
+    "tipoFalta": "Leve",
+    "descripcion": "Llegó tarde a clases",
+    "materia": "Matemática",
+    "fecha": "2026-03-05"
+  },
+  {
+    "id": "falta-2",
+    "CI": "7654321",
+    "trimestre": 1,
+    "tipoFalta": "Inasistencia",
+    "descripcion": "Falta sin justificar",
+    "materia": "Física",
+    "fecha": "2026-03-12"
+  },
+  {
+    "id": "falta-3",
+    "CI": "7654321",
+    "trimestre": 2,
+    "tipoFalta": "Leve",
+    "descripcion": "Llegó tarde a clases",
+    "materia": "Lenguaje",
+    "fecha": "2026-05-08"
+  },
+  {
+    "id": "falta-4",
+    "CI": "7654321",
+    "trimestre": 3,
+    "tipoFalta": "Grave",
+    "descripcion": "Inasistencia sin justificar",
+    "materia": "Historia",
+    "fecha": "2026-08-14"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "admin-1",
+    "password": "admin123",
+    "nombre": "Administrador",
+    "apellidoPaterno": "Don Bosco",
+    "apellidoMaterno": "Sucre",
+    "CI": "1234567",
+    "rol": "ADMIN"
+  },
+  {
+    "id": "profesor-1",
+    "password": "profesor123",
+    "nombre": "Profesor",
+    "apellidoPaterno": "Don Bosco",
+    "apellidoMaterno": "Sucre",
+    "CI": "2345678",
+    "rol": "PROFESOR"
+  },
+  {
+    "id": "alumno-1",
+    "password": "alumno123",
+    "nombre": "Alumno",
+    "apellidoPaterno": "Don Bosco",
+    "apellidoMaterno": "Sucre",
+    "CI": "7654321",
+    "rol": "ALUMNO"
+  },
+  {
+    "id": "alumno-2",
+    "password": "alumno123",
+    "nombre": "María",
+    "apellidoPaterno": "Fernández",
+    "apellidoMaterno": "Rojas",
+    "CI": "8765432",
+    "rol": "ALUMNO"
+  },
+  {
+    "id": "alumno-3",
+    "password": "alumno123",
+    "nombre": "Carlos",
+    "apellidoPaterno": "Gutiérrez",
+    "apellidoMaterno": "Pérez",
+    "CI": "9876543",
+    "rol": "ALUMNO"
+  }
+]
